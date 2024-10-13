@@ -6,3 +6,4 @@ tunnels:
     proto: http
 version: 2
 web_addr: 0.0.0.0:4040
+authtoken: 2n8WgveA06FexQMHNWbSHQOVejO_4cy2SuoMjnQiiDEx4fa8m
